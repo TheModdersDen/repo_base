@@ -3,6 +3,62 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Backup files
+*~
+*.bak
+*.backup
+*.bck
+*.bk
+*.old
+*.tmp
+*.temp
+*.vb$
+*.vb~
+*.vbw
+*.vbg
+*.vbp
+*-bak
+*-backup
+*-bck
+
+# Visual Studio Code files:
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/c[Ss]pell.json
+*.code-workspace
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# Android files
+*.apk
+*.ap_
+*.aab
+*.aab.zip
+*.aab.zip.*
+*.sln.ide
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.ide-shm
+
+# XCode user files
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+*.ipa
+*.xccheckout
+*.xcscmblueprint
+
 # User-specific files
 *.rsuser
 *.suo

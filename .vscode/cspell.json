@@ -140,17 +140,7 @@
     ],
     // Paths to ignore
     "ignorePaths": [
-        "node_modules/**",
-        "assets/js/**",
-        "assets/media/**",
-        "assets/css/**",
-        "assets/fonts/**",
-        "assets/icons/**",
-        "_config.yml",
-        "ads.txt",
-        "robots.txt",
-        "Gemfile.lock",
-        "Gemfile"
+        ".vscode/**"
     ],
     // Extra dictionaries to load
     "dictionaries": [
