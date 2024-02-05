@@ -36,6 +36,6 @@ You **MAY** use this software in a manner that is primarily intended for or dire
 
 You **MAY** also use this project for **personal**, **non-commercial**, and **non-competitive** purposes, such as for **personal** use, **personal** projects, **personal** experiments, **personal** learning, **personal** research, **personal** academic work, **personal** educational work, and other similar kinds of work.
 
-If you have any questions about the licensing of this project, please contact the author. If you have any questions about the usage of this project, please contact the author. If you have any questions about the purpose of this project, please contact the author. If you have any questions about the author, please contact the author. If you have any questions about anything, please contact the author. You may do so at any time at this link: <https://themoddersden.com/contact>.
+If you have any questions about the licensing of this project, please contact the author. If you have any questions about the usage of this project, please contact the author. If you have any questions about the purpose of this project, please contact the author. If you have any questions about the author, please contact the author. If you have any questions about anything, please contact the author. You may do so at any time at this link: <https://themoddersden.com/contact/>.
 
 Thank you for reading and understanding this license. Please enjoy the project and use it responsibly. :wink:
