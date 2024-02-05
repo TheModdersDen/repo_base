@@ -3,6 +3,80 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Envrionment files
+*.env
+*.env.development
+*.env.test
+*.env.production
+!.env.example
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Android build files
+*.apk
+*.aar
+*.ap_
+
+# iOS build files
+*.ipa
+*.pods/
+*.xcworkspace/
+*.xcuserdatad/
+
+# Flutter build files
+*.iml
+*.metadata
+*.flutter-plugins
+*.flutter-plugins-dependencies
+*.dart_tool/
+*.symlinks/
+
+# CocoaPods dependency files
+Pods/
+*.lock
+*.xcconfig
+!default.xcconfig
+Podfile.lock
+
+# Bundle artifact
+*.jsbundle
+
+# Backup files
+*.bak
+*-bak
+*.backup
+*.old
+*.bak2
+*.old2
+*-backup
+*-old
+
+# Node.js
+node_modules/
+jspm_packages/
+
+# Visual Studio Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/[cC][sS]pell.json
+*.code-workspace
+
 # User-specific files
 *.rsuser
 *.suo
